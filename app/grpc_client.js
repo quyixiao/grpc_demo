@@ -5,7 +5,6 @@
 // 动态生成或者静态生成的方式，不管哪种方式，都是一样的，都需要将他弄到其他的东西中
 //
 
-
 var PROTO_FILE_PATH = "/Users/quyixiao/WebstormProjects/grpc_demo/proto/Student.proto";
 
 var grpc = require("grpc");
